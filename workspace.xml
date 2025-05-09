@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ddc115d-a554-4cf2-baee-660c7d0dba0d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="openjdk-24" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="openjdk-24" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2waO3sGT0FgKbuwRlBww4tvFYi8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.Testing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Cart.continueShoppingPerformanceGlitchUser.executor": "Run",
+    "TestNG.Cart.continueShoppingProblemUser.executor": "Run",
+    "TestNG.Cart.executor": "Run",
+    "TestNG.Checkout.emptyFieldsCancelProblemUser.executor": "Run",
+    "TestNG.Checkout.emptyFieldsCancelStandardUser.executor": "Run",
+    "TestNG.Checkout.executor": "Run",
+    "TestNG.CheckoutInvalid.executor": "Run",
+    "TestNG.MainMenu.executor": "Run",
+    "TestNG.MainMenuInvalid.executor": "Run",
+    "TestNG.MainPage.addProductsStandardUser.executor": "Run",
+    "TestNG.MainPage.executor": "Run",
+    "TestNG.MainPageInvalid.executor": "Run",
+    "TestNG.MainPageinvalid.executor": "Run",
+    "TestNG.UIFunctionality.loginEmptyFields.executor": "Run",
+    "TestNG.UIFunctionality.loginErrorUser.executor": "Run",
+    "TestNG.UIFunctionality.loginLockedOutUser.executor": "Run",
+    "TestNG.UIFunctionality.loginPerformanceGlitchUser.executor": "Run",
+    "TestNG.UIFunctionality.loginProblemUser.executor": "Run",
+    "TestNG.UIFunctionality.loginStandardUser.executor": "Run",
+    "TestNG.UIFunctionality.loginVisualUser.executor": "Run",
+    "TestNG.UIFunctionalityInvalid.executor": "Run",
+    "TestNG.UIFunctionalityInvalid.loginLockedOutUser.executor": "Run",
+    "TestNG.demoTestNG.executor": "Run",
+    "TestNG.demoTestNG.loginStandardUser.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/Downloads/selenium-server-4.31.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Cart.continueShoppingPerformanceGlitchUser">
+    <configuration name="Testing" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Cart.continueShoppingPerformanceGlitchUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Cart" />
+      <option name="METHOD_NAME" value="continueShoppingPerformanceGlitchUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cart.continueShoppingProblemUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Cart" />
+      <option name="METHOD_NAME" value="continueShoppingProblemUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Checkout.emptyFieldsCancelStandardUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Checkout" />
+      <option name="METHOD_NAME" value="emptyFieldsCancelStandardUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UIFunctionalityInvalid.loginLockedOutUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.UIFunctionalityInvalid" />
+      <option name="METHOD_NAME" value="loginLockedOutUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UIFunctionality.loginStandardUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.UIFunctionality" />
+      <option name="METHOD_NAME" value="loginStandardUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Testing" />
+      <item itemvalue="TestNG.Cart.continueShoppingPerformanceGlitchUser" />
+      <item itemvalue="TestNG.Cart.continueShoppingProblemUser" />
+      <item itemvalue="TestNG.UIFunctionalityInvalid.loginLockedOutUser" />
+      <item itemvalue="TestNG.UIFunctionality.loginStandardUser" />
+      <item itemvalue="TestNG.Checkout.emptyFieldsCancelStandardUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Cart.continueShoppingPerformanceGlitchUser" />
+        <item itemvalue="TestNG.Cart.continueShoppingProblemUser" />
+        <item itemvalue="TestNG.UIFunctionalityInvalid.loginLockedOutUser" />
+        <item itemvalue="TestNG.UIFunctionality.loginStandardUser" />
+        <item itemvalue="TestNG.Checkout.emptyFieldsCancelStandardUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ddc115d-a554-4cf2-baee-660c7d0dba0d" name="Changes" comment="" />
+      <created>1746276029050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746276029050</updated>
+    </task>
+    <servers />
+  </component>
+</project>
