@@ -57,7 +57,6 @@ public class test {
         auto.findElement(By.id("password")).clear();
     }
 
-    // ========== Valid Login Test Cases ==========
 
     @Test
     public void loginStandardUser() {
@@ -118,8 +117,6 @@ public class test {
         String currentUrl = auto.getCurrentUrl();
         Assert.assertEquals(currentUrl, "https://www.saucedemo.com/inventory.html", "Login failed for visual_user");
     }
-
-    // ========== Invalid Login Test Cases ==========
 
     @Test
     public void loginEmptyFields() {
